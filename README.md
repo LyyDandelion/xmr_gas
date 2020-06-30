@@ -1,5 +1,4 @@
 # xmr_gas
-xmr挖矿
 
 ### step 0. build directory
 ``` mkdir /www/server/gas/
@@ -9,7 +8,7 @@ then
     cd /www/server/gas/
     ```
 ### step 1.copy source files
-``` git clone https://github.com/LyyDandelion/xmr_gas.git ```
+``` git clone xxx```
 ### step 2.chmod file
  ```chmod +x xmrig
  chmod +x offline_restart.sh```
